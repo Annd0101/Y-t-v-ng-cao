@@ -1,0 +1,10 @@
+{
+  "name": "Y tế vùng cao - Village Health",
+  "description": "A healthcare assistant for remote mountainous regions of Vietnam. Identify medicines, check symptoms, and get emergency help.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
